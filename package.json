@@ -1,0 +1,26 @@
+{
+  "name": "ride-planner-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "munich-ride-planer-service.js",
+  "scripts": {
+	  "start": "node munich-ride-planer-service.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tremmelm/MunichRidePlannerService.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tremmelm/MunichRidePlannerService/issues"
+  },
+  "dependencies": {
+	"express": "*",
+	"body-parser": "*",
+	"cookie-parser":"*",
+	"multer":"*",
+    "mongodb": "*"
+  },
+  "homepage": "https://github.com/tremmelm/MunichRidePlannerService#readme"
+}

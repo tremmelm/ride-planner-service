@@ -1,0 +1,8 @@
+{
+	"employees" : [
+		{"name": "andreas", "iconUrl": "" },
+		{"name": "wolfgang", "iconUrl": ""},
+		{"name": "tobias", "iconUrl": ""},
+		{"name": "julian", "iconUrl": ""}
+	]
+}
